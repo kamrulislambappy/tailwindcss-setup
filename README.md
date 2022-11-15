@@ -88,11 +88,11 @@ npm run tailwindcss
 #### <a name="vscode-extension">**7.** VSCODE Tailwindcss Extension</a>
 Search `Tailwind CSS IntelliSense` in the editor to install the Tailwind CSS extension within `Visual Studio Code`
 
-![Tailwind CSS IntelliSense](https://lh3.googleusercontent.com/drive-viewer/AJc5JmRueA-kP6ukVIziTZEwqAtKWmMsUGdBCKcyn0JnLKmiEOtJzRT98uII2aPeQfJUyFkLNaMmXrsLBWQbiBNEiERLbfHSHQ=w1366-h649)
-
 ```bash
 Tailwind CSS IntelliSense
 ```
+
+![Tailwind CSS IntelliSense](https://lh3.googleusercontent.com/drive-viewer/AJc5JmRueA-kP6ukVIziTZEwqAtKWmMsUGdBCKcyn0JnLKmiEOtJzRT98uII2aPeQfJUyFkLNaMmXrsLBWQbiBNEiERLbfHSHQ=w1366-h649)
 
 #### Extra configuration in VSCODE for convenience of work.
 - Copy the code below and paste it into the `settings.json` file from the `.vscode` folder in your project. ↓↓↓
