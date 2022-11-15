@@ -94,8 +94,8 @@ Tailwind CSS IntelliSense
 
 ![Tailwind CSS IntelliSense](https://lh3.googleusercontent.com/drive-viewer/AJc5JmRueA-kP6ukVIziTZEwqAtKWmMsUGdBCKcyn0JnLKmiEOtJzRT98uII2aPeQfJUyFkLNaMmXrsLBWQbiBNEiERLbfHSHQ=w1366-h649)
 
-#### Extra configuration in VSCODE for convenience of work.
-- Copy the code below and paste it into the `settings.json` file from the `.vscode` folder in your project. ↓↓↓
+#### - Extra configuration in VSCODE for convenience of work.
+Copy the code below and paste it into the `settings.json` file from the `.vscode` folder in your project. ↓↓↓
 
 ```bash
 // Tailwindcss related config
