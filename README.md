@@ -93,6 +93,14 @@ Search `Tailwind CSS IntelliSense` in the editor to install the Tailwind CSS ext
 ```bash
 Tailwind CSS IntelliSense
 ```
+
+` Copy the code below and paste it into the settings.json file from the .vscode folder in your project
+
+```bash
+// Tailwindcss related config
+"css.validate": false,
+"tailwindCSS.emmetCompletions": true
+```
 </br>
 
 𝔸𝕝𝕝 𝕕𝕠𝕟𝕖! 𝕋𝕙𝕒𝕟𝕜𝕤 𝕪𝕠𝕦..
