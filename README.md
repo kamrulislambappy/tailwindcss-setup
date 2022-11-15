@@ -94,7 +94,8 @@ Search `Tailwind CSS IntelliSense` in the editor to install the Tailwind CSS ext
 Tailwind CSS IntelliSense
 ```
 
-` Copy the code below and paste it into the settings.json file from the .vscode folder in your project
+#### Extra configuration in VSCODE for convenience of work.
+- Copy the code below and paste it into the `settings.json` file from the `.vscode` folder in your project. ↓↓↓
 
 ```bash
 // Tailwindcss related config
