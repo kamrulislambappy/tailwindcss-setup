@@ -62,17 +62,19 @@ Then create a file called `index.html` in your project and copy and paste the be
 ```bash
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tailwindcss Projects</title>
-    <link rel="stylesheet" href="./dist/output.css">
-</head>
-<body class="">
-    <div
-        class="m-60 p-10 text-xl font-semibold text-center border-2 rounded-xl bg-gray-900 text-cyan-200 border-sky-400">HELLO! Tailwind CSS</div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tailwind Projects</title>
+    <link rel="icon" href="../image/tailwindcss-logo.svg" type="image/x-icon" />
+    <link rel="stylesheet" href="../dist/output.css" />
+  </head>
+  <body class="h-screen flex items-center justify-items-center bg-blue-200">
+    <div class="m-auto max-w-xl px-28 py-16 rounded-xl bg-gradient-to-r from-white to-blue-200">
+      <p class="text-3xl"><b>Hello!</b> Tailwind CSS</p>
+    </div>
+  </body>
 </html>
 ```
 </br>
