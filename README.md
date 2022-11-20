@@ -79,7 +79,7 @@ Then create a file named `index.html` from `src` folder in your project and copy
 </br>
 
 #### <a name="run-project">**6.** Run Projects</a>
-Finally, type `npm run tailwindcss` from your project's terminal and then open the `index.html` file in the browser. ↓↓↓
+Finally, type `npm run tailwind` from your project's terminal and then open the `index.html` file in the browser. ↓↓↓
 
 ```bash
 npm run tailwind
@@ -96,7 +96,7 @@ Tailwind CSS IntelliSense
 ![Tailwind CSS IntelliSense](https://lh3.googleusercontent.com/drive-viewer/AJc5JmRueA-kP6ukVIziTZEwqAtKWmMsUGdBCKcyn0JnLKmiEOtJzRT98uII2aPeQfJUyFkLNaMmXrsLBWQbiBNEiERLbfHSHQ=w1366-h649)
 
 - #### _Extra configuration for Tailwind CSS language to avoid error or warning in VScode._
-  Copy the code below and paste it into the `settings.json` file from the `.vscode` folder in your project. ↓↓↓
+  Copy the code below and create a folder named `.vscode` in your project Create a file named `settings.json` inside it and paste inside it. ↓↓↓
 
 ```bash
 // Tailwindcss related config
