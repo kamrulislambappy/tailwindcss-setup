@@ -30,7 +30,7 @@ Then go to `tailwind.config.js` in your project and copy and paste the codes bel
 ```bash
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["*.{html,js}"],
+  content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {},
   },
@@ -52,7 +52,7 @@ Then create a folder named `src` in your project and inside it create a file nam
 Then go to the file called `package.json` in your project and then copy and paste the below code inside the section called `scripts` ↓↓↓
 
 ```bash
-"tailwindcss": "tailwindcss -i ./src/input.css -o ./dist/output.css -w"
+"tailwindcss": "tailwind -i ./src/css/input.css -o ./dist/output.css -w"
 ```
 </br>
 
@@ -82,7 +82,7 @@ Then create a file called `index.html` in your project and copy and paste the be
 Finally, type `npm run tailwindcss` from your project's terminal and then open the `index.html` file in the browser. ↓↓↓
 
 ```bash
-npm run tailwindcss
+npm run tailwind
 ```
 </br>
 
