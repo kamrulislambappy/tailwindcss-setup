@@ -57,7 +57,7 @@ Then go to the file called `package.json` in your project and then copy and past
 </br>
 
 #### <a name="html-linked">**5.** Start using Tailwind in your HTML</a>
-Then create a file called `index.html` in your project and copy and paste the below code inside it. ↓↓↓
+Then create a file named `index.html` from `src` folder in your project and copy and paste the following code. ↓↓↓
 
 ```bash
 <!DOCTYPE html>
