@@ -99,9 +99,11 @@ Tailwind CSS IntelliSense
   Copy the code below and create a folder named `.vscode` in your project Create a file named `settings.json` inside it and paste inside it. ↓↓↓
 
 ```bash
-// Tailwindcss related config
-"css.validate": false,
-"tailwindCSS.emmetCompletions": true
+{
+  // Tailwindcss related config
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true
+}
 ```
 </br>
 
