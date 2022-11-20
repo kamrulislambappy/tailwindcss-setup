@@ -67,7 +67,6 @@ Then create a file called `index.html` in your project and copy and paste the be
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tailwind Projects</title>
-    <link rel="icon" href="../image/tailwindcss-logo.svg" type="image/x-icon" />
     <link rel="stylesheet" href="../dist/output.css" />
   </head>
   <body class="h-screen flex items-center justify-items-center bg-blue-200">
