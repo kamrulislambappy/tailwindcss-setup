@@ -40,7 +40,7 @@ module.exports = {
 </br>
 
 #### <a name="add-css">**3.** Add the Tailwind directives to your CSS</a>
-Then create a folder named `src` in your project and inside it create a file named `input.css` ↓↓↓
+Then create a folder called `src` in your project and inside it create another folder called `css` and inside it create a file called `input.css`. Then copy and paste the code below inside it. ↓↓↓
 ```bash
 @tailwind base;
 @tailwind components;
