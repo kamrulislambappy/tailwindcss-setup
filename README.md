@@ -52,7 +52,7 @@ Then create a folder called `src` in your project and inside it create another f
 Then go to the file called `package.json` in your project and then copy and paste the below code inside the section called `scripts` ↓↓↓
 
 ```bash
-"tailwindcss": "tailwind -i ./src/css/input.css -o ./dist/output.css -w"
+"tailwind": "tailwind -i ./src/css/input.css -o ./dist/output.css -w"
 ```
 </br>
 
