@@ -93,7 +93,7 @@ Search `Tailwind CSS IntelliSense` in the editor to install the Tailwind CSS ext
 Tailwind CSS IntelliSense
 ```
 
-![Tailwind CSS IntelliSense](https://lh3.googleusercontent.com/drive-viewer/AJc5JmRueA-kP6ukVIziTZEwqAtKWmMsUGdBCKcyn0JnLKmiEOtJzRT98uII2aPeQfJUyFkLNaMmXrsLBWQbiBNEiERLbfHSHQ=w1366-h649)
+![Tailwind CSS IntelliSense](https://lh3.googleusercontent.com/drive-viewer/AFDK6gMz892PebpuYtMoe2nXGdZPfW2PSaorwcOL7Kp7Kuh4w0ULV1Cw8jsZAyU1JWr5-0AMCQ4N4qdNMRSnkMszt2FBHU14_w=w1366-h657)
 
 - #### _Extra configuration for Tailwind CSS language to avoid error or warning in VScode._
   Copy the code below and create a folder named `.vscode` in your project Create a file named `settings.json` inside it and paste inside it. ↓↓↓
