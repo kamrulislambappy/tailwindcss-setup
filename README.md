@@ -1,7 +1,7 @@
 # Installation Tailwind CSS
 Tailwindcss Install &amp; Configuration Guide. Follow the description below.
 
-![Thumbnail](https://lh3.googleusercontent.com/drive-viewer/AJc5JmS3S2bhn5u41T82MdIaofTtqAUpCa5Hg_Q-YLxiUmxO1pKz7dBfDUO4BPS-Mi-p91I52DJ-HpDgpduxYjKAOVMRtMt3AA=w1366-h649)
+![Thumbnail](https://lh3.googleusercontent.com/drive-viewer/AFDK6gMw12n8T8t6yHzo1mDwMWyxMdYCPNPwX1pOcZPaPhWXdiDojKetB9xS1fGLVvODVG3AhAGw2ilzPdQFMp22edaEETOXvA=w1366-h657)
 
 ## Following in the 7 Step:
 
